@@ -1,8 +1,5 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/benjamin-mbd/index/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Bienvenue sur mon blog
+Benjamin est élève en terminale F2 au lycée technique Jean Fidèle Otando à Port-Gentil (Gabon). Il est passionné par la science les mathématiques, électronique et informatique. I aimerait devenir ingénieur dans le domaine de l’électronique ou de la science des données. Il aime énormément le sport, partager des bons moments avec ses amis et sa famille.
 
 ### Markdown
 
