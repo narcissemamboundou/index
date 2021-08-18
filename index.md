@@ -1,5 +1,5 @@
 ## Bienvenue sur mon blog
-Benjamin est élève en terminale F2 au lycée technique Jean Fidèle Otando à Port-Gentil (Gabon). Il est passionné par la science les mathématiques, électronique et informatique. I aimerait devenir ingénieur dans le domaine de l’électronique ou de la science des données. Il aime énormément le sport, partager des bons moments avec ses amis et sa famille.
+Elève en terminale F2 au lycée technique Jean Fidèle Otando à Port-Gentil (Gabon). Je suis passionné par la science les mathématiques, électronique et informatique. Depuis mon enfance, je reve de devenir ingénieur dans le domaine de l’électronique ou de la science des données. J'apreci énormément le sport, partager des bons moments avec ses amis et sa famille.
 
 ### Markdown
 
